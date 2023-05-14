@@ -5,4 +5,4 @@ Page 1: name, phone number & email
 Page 2: location, age and university
 
 A final success page with a thank you message by dynamically fetching the person's name, "Thank you for filling the form {name}."
-Ensure validation exists on the form. Host the form on any free portal & share the link with me.
+
